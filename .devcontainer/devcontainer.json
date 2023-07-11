@@ -1,5 +1,5 @@
 //devcontainer.json
-{
+/*{
   "name": "Node.js",
 
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
@@ -27,4 +27,4 @@
   //"postCreateCommand": "yarn install"
 
   // "remoteUser": "root"
-}
+}*/
